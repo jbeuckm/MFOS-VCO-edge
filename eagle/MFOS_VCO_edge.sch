@@ -16081,7 +16081,7 @@ Grid 2.54 mm&lt;p&gt;
 <part name="R23" library="rcl" deviceset="R-US_" device="0207/7" value="100k"/>
 <part name="P+6" library="supply1" deviceset="+12V" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
-<part name="C7" library="rcl" deviceset="C-US" device="050-024X044" value="0.1uF"/>
+<part name="C7" library="rcl" deviceset="C-US" device="050-024X044" value="100nF"/>
 <part name="R22" library="rcl" deviceset="R-US_" device="0207/7" value="10k"/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="P+7" library="supply1" deviceset="+12V" device=""/>
@@ -16117,7 +16117,7 @@ Grid 2.54 mm&lt;p&gt;
 <part name="GND20" library="supply1" deviceset="GND" device=""/>
 <part name="GND21" library="supply1" deviceset="GND" device=""/>
 <part name="R18" library="rcl" deviceset="R-US_" device="0207/7" value="20k"/>
-<part name="C14" library="rcl" deviceset="C-US" device="050-030X075" value="0.002uF"/>
+<part name="C14" library="rcl" deviceset="C-US" device="050-030X075" value="2nF"/>
 <part name="P-9" library="supply1" deviceset="-12V" device=""/>
 <part name="C15" library="rcl" deviceset="CPOL-US" device="B45181A" value="1uF tant"/>
 <part name="C16" library="rcl" deviceset="CPOL-US" device="B45181A" value="1uF tant"/>
