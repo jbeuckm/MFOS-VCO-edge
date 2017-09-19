@@ -15312,7 +15312,7 @@ at 27/07/2012 14:48:47</description>
 <pad name="P$1" x="5" y="-2.5" drill="1.3" diameter="2.54" shape="long" rot="R180"/>
 <pad name="P$2" x="-0.2" y="-13.5" drill="1.3" diameter="2.54" shape="long" rot="R90"/>
 <pad name="P$3" x="5" y="-15.7" drill="1.3" diameter="2.54" shape="long" rot="R180"/>
-<text x="0" y="3.81" size="1.27" layer="21">&gt;NAME</text>
+<text x="2.54" y="-11.43" size="1.27" layer="22" rot="MR180">&gt;NAME</text>
 <polygon width="0.127" layer="45">
 <vertex x="2" y="3.5"/>
 <vertex x="8" y="3.5"/>
